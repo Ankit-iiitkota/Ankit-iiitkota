@@ -255,3 +255,39 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 <img src="https://raw.githubusercontent.com/Ankit-iiitkota/Ankit-iiitkota/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
+
+## 📊 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-iiitkota&theme=github_dark"/>
+
+</p>
+
+
+# 💻 Competitive Programming
+
+| Platform | Profile |
+|----------|---------|
+| 🟠 LeetCode | https://leetcode.com/u/Ankit_IIITKota/ |
+| ⭐ CodeChef | https://www.codechef.com/users/ankit_2907 |
+| 🔵 Codeforces | https://codeforces.com/profile/Ankit_IIITKota |
+
+
+# 🌱 Currently Working On
+
+- 🚀 Building AI-powered Full Stack Applications
+
+- 📊 Learning Advanced System Design
+
+- 🤖 Exploring Generative AI
+
+- ⚡ Improving DSA & Competitive Programming
+
+- 💼 Preparing for Software Engineering Roles
+
+
+## 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code." — Ankit Chaurasiya
