@@ -97,3 +97,134 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
 
 </p>
+
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 💰 BillBuddy
+
+### AI-Powered Expense Splitting Platform
+
+### ✨ Features
+
+- 🤖 AI-powered spending insights
+- 💸 Smart debt simplification
+- 👥 Group expense management
+- 🔐 Clerk Authentication
+- 📧 Automated reminders
+- 📊 Expense analytics
+
+### 🛠 Tech Stack
+
+Next.js • React.js • Tailwind CSS • Convex • Clerk • Gemini AI
+
+</td>
+
+<td width="50%">
+
+## 🌿 AyurVision
+
+### AI-Powered Healthcare Analysis Platform
+
+### ✨ Features
+
+- 🧠 AI Disease Detection
+- 📷 Image Upload
+- 👨‍⚕️ Patient Dashboard
+- 🩺 Specialist Dashboard
+- 📊 AI Reports
+- 🌱 Ayurvedic Recommendations
+
+### 🛠 Tech Stack
+
+React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+## 🏢 Frontend Developer Intern
+
+### Newgen Software
+
+📍 Noida, India
+
+📅 June 2025 – August 2025
+
+- Developed scalable React.js interfaces.
+- Built reusable UI components.
+- Improved application responsiveness.
+- Collaborated with backend and UI/UX teams.
+- Worked on production-ready enterprise applications.
+
+---
+
+# 🏆 Achievements
+
+🥈 1st Runner-Up — IIT Jodhpur DevQuest 2025
+
+🏅 Top 10 — Hack the Chain 2.0
+
+🥇 1st Rank — Byte Break 2.0
+
+💼 Frontend Developer Intern — Newgen Software
+
+⭐ 400+ DSA Problems Solved
+
+⭐ 3★ CodeChef
+
+⭐ LeetCode Max Rating: **1587**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankit-iiitkota&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-iiitkota&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-iiitkota&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit-iiitkota&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-iiitkota&theme=tokyo-night"/>
+
+</p>
+
+---
+
