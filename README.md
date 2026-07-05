@@ -223,15 +223,6 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit-iiitkota&theme=tokyonight&row=2&column=4"](https://github-profile-trophy.vercel.app/?username=Ankit-iiitkota&theme=tokyonight&no-frame=true&row=1&column=7/>
-
-</p>
-
----
 
 
 # 📈 Contribution Graph
