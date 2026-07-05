@@ -302,7 +302,7 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/ankit_2907">
+<a href="https://www.codechef.com/users/ankit_iiitkota">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 </p>
