@@ -307,18 +307,3 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 </a>
 </p>
 
-
-# 📈 3D Contribution Calendar
-
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</p>
-
-# 📊 GitHub Metrics
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ankit-iiitkota/Ankit-iiitkota/main/github-metrics.svg" width="100%"/>
-</p>
-
