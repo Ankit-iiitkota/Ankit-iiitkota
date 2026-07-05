@@ -205,19 +205,18 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 
 # 📊 GitHub Analytics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankit-iiitkota&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-iiitkota&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit-iiitkota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=Ankit-iiitkota&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-iiitkota&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-iiitkota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</p>
+</div>
 
 ---
 
