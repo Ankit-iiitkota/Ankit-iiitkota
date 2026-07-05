@@ -70,7 +70,7 @@
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"/>
 </a>
 
-<a href="https://www.codechef.com/users/ankit_2907">
+<a href="https://www.codechef.com/users/ankit_iiitkota">
 <img src="https://cdn.codechef.com/images/cc-logo.svg" width="48"/>
 </a>
 
@@ -263,7 +263,7 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 | Platform | Profile |
 |----------|---------|
 | 🟠 LeetCode | https://leetcode.com/u/Ankit_IIITKota/ |
-| ⭐ CodeChef | https://www.codechef.com/users/ankit_2907 |
+| ⭐ CodeChef | https://www.codechef.com/users/ankit_iiitkota |
 | 🔵 Codeforces | https://codeforces.com/profile/Ankit_IIITKota |
 
 
