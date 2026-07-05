@@ -4,6 +4,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=850&lines=Frontend+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Hackathon+Winner;400%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
+
+</p>
+
 </div>
 
 ---
@@ -227,4 +239,12 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 </p>
 
 ---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ankit-iiitkota&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
