@@ -238,7 +238,7 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-iiitkota&theme=tokyo-night"/>
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-iiitkota&theme=tokyo-night"/>](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-iiitkota&theme=tokyo-night)
 
 </p>
 
