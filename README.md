@@ -307,5 +307,9 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 </a>
 </p>
 
+# 📊 GitHub Metrics
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ankit-iiitkota/Ankit-iiitkota/main/github-metrics.svg" width="100%"/>
+</p>
 
