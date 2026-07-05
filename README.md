@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Chaurasiya;Frontend+Developer;AI%2FML+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;400%2B+DSA+Problems+Solved;Building+Scalable+Applications" />
+</p>
+
+<p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
@@ -236,7 +240,7 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 
 </p>
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
