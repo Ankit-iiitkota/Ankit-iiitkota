@@ -248,3 +248,10 @@ React • Node.js • Express • MongoDB • TensorFlow.js • OpenAI API
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Ankit-iiitkota/Ankit-iiitkota/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
